@@ -52,8 +52,8 @@ metadata: demo-ohd-metadata
 #
 organization-name: "Mexican American Heritage and History Museum"
 organization-link: https://losdestucson.com
-organization-logo-banner: objects\los_des_logo.png
-organization-logo-nav: objects\los_des_logo.png
+organization-logo-banner: <objects\los_des_logo.png>
+organization-logo-nav: <objects\los_des_logo.png>
 
 ##########
 # GOOGLE SERVICES [optional!]
