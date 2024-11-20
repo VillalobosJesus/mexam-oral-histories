@@ -25,7 +25,7 @@ tagline: Voices from Tucson through the Mexican American Heritage and History Mu
 # this description might appear in search result lists, keep around 160 characters max
 description: "A collection of Mexican American oral histories about Tucson. In progress, protoype only. Keep link private. Current objects/images are there for demonstration purposes."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: oral histories;digital collections
+keywords: mexican american; barrio; oral histories;digital collection;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: VillalobosJesus
 
@@ -52,8 +52,8 @@ metadata: demo-ohd-metadata
 #
 organization-name: "Mexican American Heritage and History Museum"
 organization-link: https://losdestucson.com
-organization-logo-banner: /images/los_des_logo_banner.png
-organization-logo-nav: /images/los_des_logo_banner.png
+organization-logo-banner:
+organization-logo-nav:
 
 ##########
 # GOOGLE SERVICES [optional!]

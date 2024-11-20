@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: gluck
+featured-image: "https://images.squarespace-cdn.com/content/v1/64c544cf9f08f827c5f2ae69/7c592f3f-b443-4fc1-9518-fd41832f0606/DSC09855.jpg"
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
@@ -38,9 +38,9 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 38.21805047796112 #to determine center of map
-longitude: -117.014185 #to determine center of map
-zoom-level: 3 # zoom level for map 
+latitude: 32.2540 #to determine center of map
+longitude: -110.9742 #to determine center of map
+zoom-level: 11 # zoom level for map 
 map-base: Esri_WorldImagery # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
 map-search: true # not suggested with large collections
 map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
@@ -92,10 +92,10 @@ media-scroll: true ## true/false --> determines if the media and vizualization w
 # NAVBAR COLORS [optional!]
 # navbar text color
 # Choose from "navbar-light" for use with light background colors, or "navbar-dark" for dark background colors
-navbar-color: navbar-dark
+navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-primary
 
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
