@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/cb-oralhistory
 # title of site appears in banner
 title: Mexican American Oral Histories
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Voices from Tucson through the Mexican American Heritage and History Museum and Los Descendientes
+tagline: Voices from Tucson through the Mexican American Heritage and History Museum
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of Mexican American oral histories about Tucson. In progress, protoype only. Keep link private. Current objects/images are there for demonstration purposes."
+description: "A collection of Mexican American oral histories about Tucson."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: mexican american; barrio; oral histories;digital collection;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
