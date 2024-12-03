@@ -26,6 +26,7 @@ There is some [documentation](https://oralhistoryasdata.github.io/about.html#doc
 
 ## About The Sosa-Carrillo House
 <img src="https://images.squarespace-cdn.com/content/v1/64c544cf9f08f827c5f2ae69/13acc1f8-5438-41ce-80b1-c0f610caf5ca/the-sosa-carrillo-house-in-1971-prior-to-restoration.-the-tcc-music-hall-is-under-construction-in-the-background.-az-daily-star.jpg?format=500w"/>
+
 Built ca. 1978, the Sosa-Carrillo House has a long history preserved within its thick adobe walls. The Carrillo’s continually occupied the house for 90 years up until Urban Renewal. In 2018, Betty Villegas and Patricia Benton partnered with Los Descendientes to propose a new the Mexican American Heritage and History Museum. In 2019, the historic house reopened with its first exhibit “Trailblazing Women of Mariachi Music.”
 
 ## About The Mexican American Heritage and History Museum
