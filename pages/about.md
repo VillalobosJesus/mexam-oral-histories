@@ -24,13 +24,15 @@ The look for OHD is different than CollectionBuilder. Check out the [a demo site
 
 There is some [documentation](https://oralhistoryasdata.github.io/about.html#documentation) for OHD that might be helpful in this context. More fully developed documentation for this project is being developed, but there are several places linked here to get you started.
 
-## About CollectionBuilder-CSV
+## About The Sosa-Carrillo House
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
+https://images.squarespace-cdn.com/content/v1/64c544cf9f08f827c5f2ae69/13acc1f8-5438-41ce-80b1-c0f610caf5ca/the-sosa-carrillo-house-in-1971-prior-to-restoration.-the-tcc-music-hall-is-under-construction-in-the-background.-az-daily-star.jpg?format=500w
 
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+Built ca. 1978, the Sosa-Carrillo House has a long history preserved within its thick adobe walls. The Carrillo’s continually occupied the house for 90 years up until Urban Renewal. In 2018, Betty Villegas and Patricia Benton partnered with Los Descendientes to propose a new the Mexican American Heritage and History Museum. In 2019, the historic house reopened with its first exhibit “Trailblazing Women of Mariachi Music.”
+
+## About The Mexican American Heritage and History Museum
+
+Is to preserve, promote, and celebrate the people and history of the founding cultures of Tucson and the Pimeria Alta. We showcase, educate, and commemorate Southern Arizona’s Mexican-American & Tucsonense history, ​heritage, and culture with exhibits and programming.
 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
