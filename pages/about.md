@@ -8,6 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## About The Sosa-Carrillo House
+<img src="https://images.squarespace-cdn.com/content/v1/64c544cf9f08f827c5f2ae69/13acc1f8-5438-41ce-80b1-c0f610caf5ca/the-sosa-carrillo-house-in-1971-prior-to-restoration.-the-tcc-music-hall-is-under-construction-in-the-background.-az-daily-star.jpg?format=500w"/>
+
+Constructed circa 1878, the Sosa-Carrillo House embodies a rich history preserved within its original adobe walls. The Carrillo family occupied the home for over 90 years, until the era of Urban Renewal. In 2018, Betty Villegas and Patricia Benton partnered with Los Descendientes del Presidio de Tucson to propose the establishment of the Mexican American Heritage and History Museum. The historic house reopened in 2019 with its inaugural exhibit, "Trailblazing Women of Mariachi Music."
+
+## About The Mexican American Heritage and History Museum
+
+The Mexican American Heritage and History Museum is dedicated to preserving, promoting, and celebrating the people and histories of the founding cultures of Tucson and the Pimería Alta. Through exhibits and programming, we showcase, educate, and commemorate the rich heritage, culture, and contributions of Southern Arizona’s Mexican American and Tucsonense communities.
+
 ## About cb-oralhistory
 
 **cb-oralhistory** is a mix of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) and [Oral History as Data (OHD)](https://github.com/oralhistoryasdata/oralhistoryasdata.github.io). It's meant to serve as a starter repository for those wanting to build oral history collections with CollectionBuilder. 
@@ -23,16 +32,3 @@ The framework served as the foundation for several digital humanities projects, 
 The look for OHD is different than CollectionBuilder. Check out the [a demo site](https://oralhistoryasdata.github.io/) to see the differences.
 
 There is some [documentation](https://oralhistoryasdata.github.io/about.html#documentation) for OHD that might be helpful in this context. More fully developed documentation for this project is being developed, but there are several places linked here to get you started.
-
-## About The Sosa-Carrillo House
-<img src="https://images.squarespace-cdn.com/content/v1/64c544cf9f08f827c5f2ae69/13acc1f8-5438-41ce-80b1-c0f610caf5ca/the-sosa-carrillo-house-in-1971-prior-to-restoration.-the-tcc-music-hall-is-under-construction-in-the-background.-az-daily-star.jpg?format=500w"/>
-
-Built ca. 1978, the Sosa-Carrillo House has a long history preserved within its thick adobe walls. The Carrillo’s continually occupied the house for 90 years up until Urban Renewal. In 2018, Betty Villegas and Patricia Benton partnered with Los Descendientes to propose a new the Mexican American Heritage and History Museum. In 2019, the historic house reopened with its first exhibit “Trailblazing Women of Mariachi Music.”
-
-## About The Mexican American Heritage and History Museum
-
-Is to preserve, promote, and celebrate the people and history of the founding cultures of Tucson and the Pimeria Alta. We showcase, educate, and commemorate Southern Arizona’s Mexican-American & Tucsonense history, ​heritage, and culture with exhibits and programming.
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
